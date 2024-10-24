@@ -1,4 +1,4 @@
-# domainredirect
+# Luna's Lair Domain Redirect
 
 I cant BELIEVE I have to do this. 
 
